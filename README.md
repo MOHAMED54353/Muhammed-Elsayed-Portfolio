@@ -23,7 +23,7 @@ This portfolio highlights my journey as a web developer, featuring my technical 
 
 * **GitHub:** [MOHAMED54353](https://github.com/MOHAMED54353)
 * **LinkedIn:** [Muhammed El-Sayed](https://www.linkedin.com/in/muhammed-el-sayed-416739282/)
-* **Portfolio:** [Visit My Portfolio](https://muhammed-app.vercel.app/)
+* **Portfolio:** [https://muhammed-app.vercel.app/)
 
 ---
 
