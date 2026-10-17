@@ -236,6 +236,7 @@ button:hover {
 }
 
 footer {
+    margin: 40px 0;
     padding: 45px 20px;
     text-align: center;
     color: white;
